@@ -41,5 +41,6 @@ Anna University.
 ## **🎯 Career Goal:**
        My goal is to start my career as a Data Analyst and use data-driven approaches to solve real-world business problems.
 ## **📫 Connect With Me:**
-- LinkedIn – Coming Soon
+- LinkedIn – My LinkedIn Profile
+- Portfolio- My Portfolio Profile
 - GitHub – You are here! 😊
