@@ -41,6 +41,6 @@ Anna University.
 ## **🎯 Career Goal:**
        My goal is to start my career as a Data Analyst and use data-driven approaches to solve real-world business problems.
 ## **📫 Connect With Me:**
-- LinkedIn – My LinkedIn Profile
-- Portfolio- My Portfolio Profile
+- LinkedIn – [My LinkedIn Profile](https://linkedin.com/in/pushpasri-muthukumaran-8453552b5/)
+- Portfolio- [My Portfolio Profile]( https://pushpasrim-hub.github.io/pushpasri-portfolio/)
 - GitHub – You are here! 😊
